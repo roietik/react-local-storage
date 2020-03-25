@@ -1,0 +1,18 @@
+/* global */
+.ui .button {
+  line-height: 16px;
+}
+
+/* bug fix */
+th {
+  overflow: visible !important;
+}
+
+/* custom */
+.main > div {
+  margin-top: 20px;
+}
+.main > .button {
+  margin-right: 8px;
+  margin-top: 20px;
+}
